@@ -13,7 +13,6 @@
 
 Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ashish2508.vsc-eezzy-nvim)
 
-```bash
 
 ## License
 
