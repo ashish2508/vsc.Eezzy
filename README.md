@@ -1,5 +1,5 @@
 <center>
-  <img src="./assets/logo.png" width="140" />
+  <img src="icon.png" width="140" />
 
   # vsc.eezzy
   A neovim theme available in dark and light
@@ -11,12 +11,10 @@
 
 ## Installation
 
-1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ashish.vsc.eezzy)
-2. Go to `File > Preferences > Color Theme`
-3. Select `vsc.eezzy Dark` or `vsc.eezzy Light`
+Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ashish.vsc.eezzy)
 
 Alternatively install via CLI:
-```
+```bash
 code --install-extension ashish.vsc.eezzy
 ```
 

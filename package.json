@@ -1,0 +1,31 @@
+{
+  "name": "vsc-eezzy-nvim",
+  "displayName": "vsc-eezzy-nvim Themes",
+  "description": "A nvim customized theme available in dark mode",
+  "version": "0.1.6",
+  "publisher": "ashish2508",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashish2508/vsc.Eezzy.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#09090b",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eezzy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vsc-eezzy-dark.json"
+      }
+          ]
+  }
+}
