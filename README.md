@@ -11,12 +11,9 @@
 
 ## Installation
 
-Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ashish.vsc.eezzy)
+Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ashish2508.vsc-eezzy-nvim)
 
-Alternatively install via CLI:
 ```bash
-code --install-extension ashish.vsc.eezzy
-```
 
 ## License
 
