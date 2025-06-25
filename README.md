@@ -1,14 +1,11 @@
 <center>
-  <img src="https://raw.githubusercontent.com/ashish/vsc.Eezzy/main/icon.png" width="140" />
+  <img src="./assets/logo.png" width="140" />
 
-  # Pure Themes
-  A minimalist theme available in dark and light
-
-  [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/me7uiz.pure-themes)
-
-  ![preview-dark](https://raw.githubusercontent.com/meluiz/pure-themes/main/dark.png)
-
-  ![preview-light](https://raw.githubusercontent.com/meluiz/pure-themes/main/light.png)
+  # vsc.eezzy
+  A neovim theme available in dark and light
+  
+   <img src="./assets/tsx.png" alt="TSX" width="80%">
+  <img src="./assets/golang.png" alt="go" width="80%">
 </center>
 
 
