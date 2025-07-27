@@ -2,7 +2,7 @@
   "name": "vsc-eezzy-nvim",
   "displayName": "vsc-eezzy-nvim Themes",
   "description": "A nvim customized theme available in dark mode",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "publisher": "ashish2508",
   "icon": "icon.png",
   "engines": {
