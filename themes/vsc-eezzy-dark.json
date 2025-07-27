@@ -172,6 +172,182 @@
       "settings": {
         "foreground": "#54aa46"
       }
+    },
+    {
+      "name": "JSX/TSX Components",
+      "scope": [
+        "support.class.component.jsx",
+        "support.class.component.tsx",
+        "entity.name.tag.jsx",
+        "entity.name.tag.tsx"
+      ],
+      "settings": {
+        "foreground": "#a0ff20"
+      }
+    },
+    {
+      "name": "JSX/TSX HTML Tags",
+      "scope": [
+        "entity.name.tag.html.jsx",
+        "entity.name.tag.html.tsx",
+        "punctuation.definition.tag.jsx",
+        "punctuation.definition.tag.tsx"
+      ],
+      "settings": {
+        "foreground": "#ff9020"
+      }
+    },
+    {
+      "name": "JSX/TSX Attributes",
+      "scope": [
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#48fb9f"
+      }
+    },
+    {
+      "name": "JSX/TSX Brackets",
+      "scope": [
+        "punctuation.section.embedded.begin.jsx",
+        "punctuation.section.embedded.end.jsx",
+        "punctuation.section.embedded.begin.tsx",
+        "punctuation.section.embedded.end.tsx"
+      ],
+      "settings": {
+        "foreground": "#f8f8f8"
+      }
+    },
+    {
+      "name": "TypeScript Types",
+      "scope": [
+        "entity.name.type.ts",
+        "entity.name.type.tsx",
+        "support.type.primitive.ts",
+        "support.type.primitive.tsx"
+      ],
+      "settings": {
+        "foreground": "#ff9020"
+      }
+    },
+    {
+      "name": "TypeScript Interfaces",
+      "scope": [
+        "entity.name.type.interface.ts",
+        "entity.name.type.interface.tsx"
+      ],
+      "settings": {
+        "foreground": "#40c4aa"
+      }
+    },
+    {
+      "name": "TypeScript Generics",
+      "scope": [
+        "punctuation.definition.typeparameters.begin.ts",
+        "punctuation.definition.typeparameters.end.ts",
+        "punctuation.definition.typeparameters.begin.tsx",
+        "punctuation.definition.typeparameters.end.tsx"
+      ],
+      "settings": {
+        "foreground": "#c080ff"
+      }
+    },
+    {
+      "name": "Template Literals",
+      "scope": [
+        "string.template",
+        "punctuation.definition.string.template.begin",
+        "punctuation.definition.string.template.end"
+      ],
+      "settings": {
+        "foreground": "#8bbb81"
+      }
+    },
+    {
+      "name": "Template Literal Expressions",
+      "scope": [
+        "meta.template.expression",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
+      ],
+      "settings": {
+        "foreground": "#f8f8f8"
+      }
+    },
+    {
+      "name": "Arrow Functions",
+      "scope": ["storage.type.function.arrow"],
+      "settings": {
+        "foreground": "#ff0e6b"
+      }
+    },
+    {
+      "name": "Import/Export Keywords",
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.export",
+        "keyword.control.from",
+        "keyword.control.as"
+      ],
+      "settings": {
+        "foreground": "#ff0e6b"
+      }
+    },
+    {
+      "name": "Import/Export Modules",
+      "scope": ["variable.other.readwrite.alias", "meta.import string.quoted"],
+      "settings": {
+        "foreground": "#8bbb81"
+      }
+    },
+    {
+      "name": "Object Methods",
+      "scope": [
+        "meta.method.declaration entity.name.function",
+        "meta.object-literal.key"
+      ],
+      "settings": {
+        "foreground": "#40c4aa"
+      }
+    },
+    {
+      "name": "Destructuring",
+      "scope": [
+        "meta.object-binding-pattern-variable variable.other.readwrite",
+        "meta.array-binding-pattern-variable variable.other.readwrite"
+      ],
+      "settings": {
+        "foreground": "#48fb9f"
+      }
+    },
+    {
+      "name": "Spread Operator",
+      "scope": ["keyword.operator.spread"],
+      "settings": {
+        "foreground": "#ff0e6b"
+      }
+    },
+    {
+      "name": "React Hooks",
+      "scope": ["meta.function-call entity.name.function"],
+      "settings": {
+        "foreground": "#40c4aa"
+      }
+    },
+    {
+      "name": "TypeScript Decorators",
+      "scope": ["punctuation.decorator", "meta.decorator"],
+      "settings": {
+        "foreground": "#c080ff"
+      }
+    },
+    {
+      "name": "CSS in JS",
+      "scope": ["source.css.styled", "meta.template.expression.css"],
+      "settings": {
+        "foreground": "#8bbb81"
+      }
     }
   ]
 }
